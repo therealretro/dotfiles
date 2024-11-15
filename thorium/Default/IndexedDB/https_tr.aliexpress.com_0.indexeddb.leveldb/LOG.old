@@ -1,0 +1,7 @@
+2024/11/13-17:27:42.153 2de Reusing MANIFEST /home/retro/.config/thorium/Default/IndexedDB/https_tr.aliexpress.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/13-17:27:42.153 2de Recovering log #3
+2024/11/13-17:27:42.153 2de Reusing old log /home/retro/.config/thorium/Default/IndexedDB/https_tr.aliexpress.com_0.indexeddb.leveldb/000003.log 
+2024/11/13-17:28:17.004 2df Level-0 table #5: started
+2024/11/13-17:28:17.014 2df Level-0 table #5: 1319 bytes OK
+2024/11/13-17:28:17.028 2df Delete type=0 #3
+2024/11/13-17:28:17.028 2df Manual compaction at level-0 from (begin) .. (end); will stop at (end)

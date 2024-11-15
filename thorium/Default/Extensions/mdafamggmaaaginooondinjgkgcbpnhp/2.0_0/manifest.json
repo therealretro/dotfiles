@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://office.live.com/start/PowerPoint.aspx?WT.mc_id=016_Chrome_Web_Store_App_PowerPoint_1"
+      },
+      "urls": [ "*://office.live.com/start/PowerPoint.aspx/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_powerpoint_description__",
+   "icons": {
+      "128": "ChromeStore_PowerPointTile_128x128x32.png",
+      "256": "ChromeStore_PowerPointTile_256x256x32.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgeFG7dXqKNBr0ndCxi8+nNoWtlZ6xr6TpwahaNQgrm/xkIy4cn5jEuzGMt6oQhkc4bUbKyte/qqZDEEeff5XTfuzLHjLZ34YcdeCcYeE998vD2LqzyhWPHoAASrURQp3k4gVTwIUXJ8pm0I6Bx034H1ZbjIT3NVFNYV7u3brjmzX4SPFyTBNrt2c0Ws5tAN+W+sMeyGZFYQylLYjK3hJjfb1nnO8H3P3EuMLa64qSfcZ3IGEAgHEA2/K+q9hKSaVFcMfpPH9qkE0Ls5fe6emVn0lv1tjhdBlvitwP3VvfxSZde/Wke5DLkIDTid1mg/FxsJ/AlK/BrNPJ/Eh2RBCjQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_powerpoint_title__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0"
+}

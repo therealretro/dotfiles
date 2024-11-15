@@ -1,0 +1,45 @@
+{
+   "author": "Mallowigi",
+   "description": "SynthWave '84 Theme",
+   "icons": {
+      "128": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm7VUfpJdVD30hhIBXoMcl/DXzxFeXyfUJn9/NllbZCnBbwWVHpIIa/uKAEqbRVnudpYaautHuGTGFc0U8caJGCujyz+CAIsPYSz61K+BaYdO5Si6uJ4FmrmCNNlcOFaCWuAFxbZtROxGPeC0ZUJ8OPn2CQA3735iboQXnnkpVdPeByTc9ttVglA1NKIa+ibeHPPJPa6nZhwuJA8r4U6HBzuz7e+qzQwyncRbIFpRKlFTiRNAGhtecEhN/jcuhtcRbOvMAd3OAWj+ihCntKZ7LKySx2Mei+/bfq7fOeSfjotiD8JkdiIt4xuR5C/Gdb1ORJq0fi2D0dECSH9UC92OMwIDAQAB",
+   "manifest_version": 3,
+   "name": "SynthWave '84",
+   "theme": {
+      "colors": {
+         "background_tab": [ 42, 33, 57 ],
+         "background_tab_inactive": [ 42, 33, 57 ],
+         "background_tab_incognito": [ 36, 27, 47 ],
+         "background_tab_incognito_inactive": [ 42, 33, 57 ],
+         "bookmark_text": [ 255, 255, 255 ],
+         "button_background": [ 56, 44, 77 ],
+         "frame": [ 36, 27, 47 ],
+         "frame_inactive": [ 42, 33, 57 ],
+         "frame_incognito": [ 36, 27, 47 ],
+         "frame_incognito_inactive": [ 42, 33, 57 ],
+         "ntp_background": [ 36, 27, 47 ],
+         "ntp_header": [ 42, 33, 57 ],
+         "ntp_link": [ 249, 42, 173 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "omnibox_background": [ 36, 27, 47 ],
+         "omnibox_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_background_text_inactive": [ 153, 153, 153 ],
+         "tab_background_text_incognito": [ 255, 255, 255 ],
+         "tab_background_text_incognito_inactive": [ 153, 153, 153 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 42, 33, 57 ],
+         "toolbar_button_icon": [ 153, 153, 153 ],
+         "toolbar_text": [ 255, 255, 255 ]
+      },
+      "images": {
+         "theme_ntp_background": "wall.png",
+         "theme_tab_background": "tab.png",
+         "theme_toolbar": "topbar.png"
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.4"
+}

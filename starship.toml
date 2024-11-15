@@ -1,0 +1,41 @@
+add_newline = false
+format = """
+[░▒▓](#92edf9)\
+[ 󰣇 ](bg:#92edf9 fg:#373940)\
+[](bg:#a8ddfa fg:#92edf9)\
+$directory\
+[](fg:#a8ddfa bg:#beccfc)\
+$git_branch\
+$git_status\
+[](fg:#beccfc bg:#d3bcfd)\
+[](fg:#d3bcfd bg:#e9acff)\
+[ ](fg:#e9acff)\
+"""
+
+[directory]
+style = "fg:#373940 bg:#a8ddfa"
+format = "[ $path ]($style)"
+truncation_length = 3
+truncation_symbol = "…/"
+
+[directory.substitutions]
+"Documents" = "󰈙 "
+"Downloads" = " "
+"Music" = " "
+"Pictures" = " "
+
+[git_branch]
+symbol = ""
+style = "bg:#beccfc"
+format = '[[ $symbol $branch ](fg:#394260 bg:#beccfc)]($style)'
+
+[git_status]
+style = "bg:#beccfc"
+format = '[[($all_status$ahead_behind )](fg:#394260 bg:#beccfc)]($style)'
+
+[time]
+disabled = false
+time_format = "%R" # Hour:Minute Format
+style = "bg:#e9acff"
+format = '[[  $time ](fg:#373940 bg:#e9acff)]($style)'
+

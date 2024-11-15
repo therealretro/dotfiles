@@ -1,0 +1,26 @@
+2024/11/15-16:49:05.798 31a Reusing MANIFEST /home/retro/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/MANIFEST-000001
+2024/11/15-16:49:05.801 31a Recovering log #91
+2024/11/15-16:49:05.802 31a Reusing old log /home/retro/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/000091.log 
+2024/11/15-16:49:44.723 2fb Level-0 table #95: started
+2024/11/15-16:49:44.752 2fb Level-0 table #95: 4141966 bytes OK
+2024/11/15-16:49:44.775 2fb Delete type=0 #91
+2024/11/15-16:50:43.255 2fb Level-0 table #97: started
+2024/11/15-16:50:43.285 2fb Level-0 table #97: 4319737 bytes OK
+2024/11/15-16:50:43.298 2fb Delete type=0 #94
+2024/11/15-16:50:43.299 2fb Compacting 4@0 + 3@1 files
+2024/11/15-16:50:43.320 2fb Generated table #98@0: 4 keys, 2382422 bytes
+2024/11/15-16:50:43.345 2fb Generated table #99@0: 7 keys, 2651237 bytes
+2024/11/15-16:50:43.372 2fb Generated table #100@0: 3 keys, 2433443 bytes
+2024/11/15-16:50:43.395 2fb Generated table #101@0: 10 keys, 1110857 bytes
+2024/11/15-16:50:43.395 2fb Compacted 4@0 + 3@1 files => 8577959 bytes
+2024/11/15-16:50:43.411 2fb compacted to: files[ 0 4 5 0 0 0 0 ]
+2024/11/15-16:50:43.411 2fb Delete type=2 #85
+2024/11/15-16:50:43.411 2fb Delete type=2 #83
+2024/11/15-16:50:43.411 2fb Delete type=2 #95
+2024/11/15-16:50:43.411 2fb Delete type=2 #90
+2024/11/15-16:50:43.411 2fb Delete type=2 #84
+2024/11/15-16:50:43.411 2fb Delete type=2 #97
+2024/11/15-16:50:43.411 2fb Delete type=2 #92
+2024/11/15-16:50:46.702 2f3 Level-0 table #103: started
+2024/11/15-16:50:46.744 2f3 Level-0 table #103: 4534201 bytes OK
+2024/11/15-16:50:46.757 2f3 Delete type=0 #96

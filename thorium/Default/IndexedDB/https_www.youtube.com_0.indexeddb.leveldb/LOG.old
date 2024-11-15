@@ -1,0 +1,12 @@
+2024/11/14-21:48:55.455 211e Reusing MANIFEST /home/retro/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/14-21:48:55.456 211e Recovering log #99
+2024/11/14-21:48:55.458 211e Reusing old log /home/retro/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000099.log 
+2024/11/14-21:56:59.689 2128 Level-0 table #104: started
+2024/11/14-21:56:59.709 2128 Level-0 table #104: 1353591 bytes OK
+2024/11/14-21:56:59.723 2128 Delete type=0 #99
+2024/11/14-22:00:41.525 211e Compacting 1@1 + 1@2 files
+2024/11/14-22:00:41.548 211e Generated table #105@1: 332 keys, 36856 bytes
+2024/11/14-22:00:41.548 211e Compacted 1@1 + 1@2 files => 36856 bytes
+2024/11/14-22:00:41.561 211e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/14-22:00:41.561 211e Delete type=2 #101
+2024/11/14-22:00:41.562 211e Delete type=2 #104

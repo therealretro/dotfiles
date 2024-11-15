@@ -1,0 +1,13 @@
+2024/11/12-20:58:27.677 2be7 Reusing MANIFEST /home/retro/.config/thorium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/12-20:58:27.677 2be7 Recovering log #82
+2024/11/12-20:58:27.677 2be7 Reusing old log /home/retro/.config/thorium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000082.log 
+2024/11/12-20:58:28.736 2be6 Level-0 table #87: started
+2024/11/12-20:58:28.747 2be6 Level-0 table #87: 1640 bytes OK
+2024/11/12-20:58:28.760 2be6 Delete type=0 #82
+2024/11/12-20:58:28.760 2be6 Manual compaction at level-0 from '\x00'\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/12-20:58:30.287 2be8 Compacting 1@1 + 1@2 files
+2024/11/12-20:58:30.347 2be8 Generated table #88@1: 39380 keys, 1879736 bytes
+2024/11/12-20:58:30.347 2be8 Compacted 1@1 + 1@2 files => 1879736 bytes
+2024/11/12-20:58:30.366 2be8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/12-20:58:30.366 2be8 Delete type=2 #84
+2024/11/12-20:58:30.366 2be8 Delete type=2 #87

@@ -1,0 +1,26 @@
+2024/11/15-16:49:03.718 4 Reusing MANIFEST /home/retro/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/15-16:49:03.820 4 Recovering log #146
+2024/11/15-16:49:03.826 4 Reusing old log /home/retro/.config/thorium/Default/Local Storage/leveldb/000146.log 
+2024/11/15-17:17:00.186 5 Level-0 table #150: started
+2024/11/15-17:17:00.197 5 Level-0 table #150: 21690 bytes OK
+2024/11/15-17:17:00.211 5 Delete type=0 #146
+2024/11/15-17:17:00.212 5 Compacting 4@0 + 2@1 files
+2024/11/15-17:17:00.251 5 Generated table #151@0: 621 keys, 2107596 bytes
+2024/11/15-17:17:00.264 5 Generated table #152@0: 416 keys, 201090 bytes
+2024/11/15-17:17:00.264 5 Compacted 4@0 + 2@1 files => 2308686 bytes
+2024/11/15-17:17:00.277 5 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/11/15-17:17:00.278 5 Delete type=2 #142
+2024/11/15-17:17:00.278 5 Delete type=2 #145
+2024/11/15-17:17:00.278 5 Delete type=2 #140
+2024/11/15-17:17:00.278 5 Delete type=2 #147
+2024/11/15-17:17:00.278 5 Delete type=2 #139
+2024/11/15-17:17:00.278 5 Delete type=2 #150
+2024/11/15-17:25:34.773 5 Level-0 table #154: started
+2024/11/15-17:25:34.782 5 Level-0 table #154: 19390 bytes OK
+2024/11/15-17:25:34.803 5 Delete type=0 #149
+2024/11/15-17:43:31.062 5 Level-0 table #156: started
+2024/11/15-17:43:31.075 5 Level-0 table #156: 17294 bytes OK
+2024/11/15-17:43:31.091 5 Delete type=0 #153
+2024/11/15-17:53:17.560 5 Level-0 table #158: started
+2024/11/15-17:53:17.570 5 Level-0 table #158: 17817 bytes OK
+2024/11/15-17:53:17.584 5 Delete type=0 #155

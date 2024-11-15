@@ -1,0 +1,117 @@
+{
+   "checksum": "f40d45edb3844b1a6e75d5a9968c47c7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13233852769080600",
+            "date_last_used": "13376152159784599",
+            "guid": "de60fd6c-e18f-44cb-916f-840c77de253b",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13264409819519774",
+            "date_last_used": "13375966508827852",
+            "guid": "cf32053d-c593-409e-84ee-3bc5f0f20e75",
+            "id": "7",
+            "name": "WhatsApp Web",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "children": [ {
+               "date_added": "13371841804212199",
+               "date_last_used": "0",
+               "guid": "4d12ee2a-9ba2-4e5c-9439-dd6a3512bcde",
+               "id": "9",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "e12 Öğrenci Platformu",
+               "type": "url",
+               "url": "https://ogrenci.e12.com.tr/"
+            }, {
+               "date_added": "13371841535670850",
+               "date_last_used": "0",
+               "guid": "81f2d51f-45db-4e03-abfb-c63bf5a2a18d",
+               "id": "10",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Miray Yayınları | Video Çözüm",
+               "type": "url",
+               "url": "https://mirayvideo.frns.in/"
+            }, {
+               "date_added": "13371841521690467",
+               "date_last_used": "0",
+               "guid": "62c68d4b-86ca-4f3f-9976-1ca9f9b988a5",
+               "id": "11",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Aydın Yayınları | Video Çözüm",
+               "type": "url",
+               "url": "https://aydinvideo.frns.in/"
+            }, {
+               "date_added": "13374094719973856",
+               "date_last_used": "0",
+               "guid": "ce0959ba-2f1d-45e3-97aa-fd4938b0ba32",
+               "id": "12",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "ORJİNAL Yayınları | Video Çözüm",
+               "type": "url",
+               "url": "https://orjinalvideo.frns.in/"
+            } ],
+            "date_added": "13371841812455178",
+            "date_last_used": "0",
+            "date_modified": "13374094719973856",
+            "guid": "d7b1f548-4c6d-4a5f-8f23-9b914e4ab3e7",
+            "id": "8",
+            "name": "NAO",
+            "type": "folder"
+         } ],
+         "date_added": "13375828604067811",
+         "date_last_used": "0",
+         "date_modified": "13264409819519774",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13373204664083272",
+            "date_last_used": "0",
+            "guid": "6627f979-d7c9-4655-a3d6-97b1d9c8cc5b",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "IELTS Registration",
+            "type": "url",
+            "url": "https://ieltsregistration.britishcouncil.org/ukvi/book-test"
+         } ],
+         "date_added": "13375828604067813",
+         "date_last_used": "0",
+         "date_modified": "13373204664083272",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13375828604067814",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CmEKQQiIgQISOyAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCevTTNHzJgYAEevTTNHzJgYAKdMFTdHzJgYAEgAqGG83bFIxN1JNQ1hDdk1lenptaG5mUkE9PUgDEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeW1xWWZIY1BlWFJvbDVmOThMSUkzeE1nTW91SnA4bU5DYVp4aEZ5Tlljdmd0MVJhckVGR0NpOXVMajk2MnVYTU1WMENOUU9kRzBIV3ZCOTZNNnZ2QlMwZlRseVE9PRgAIAAoADDP9uLwidWJAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEuwBCAwS5wEKHHpaaEovZFZMc2o0b0NxVVl1eXVwWWpqU2ZsWT0SZlo6QURxdEFaeXJzc3lpT3BlNmtjYkJ6S3dianZrWkF4b09icjZ2Mk94UjMvMmgrdkxhRU00a1hnVWhXWlJqeUFRWU5oZUlBOTZOWFBxRWE2eDRUNk1HajZpd1QxNlJzNGtWMVE9PRgAIAAoADDcrdXXzKKJAzjlp8+rqzJA5afPq6syShxnbnlEUlJhQzM0QUNaVTBwdEhJYUJVMEFEbmM9Wh8iHdtFRjJhR0ZIMHVLUExGd2RKZkhoOXplZlFTNTg9ZQAAAAAS7AEICxLnAQocV3lrOElWaHRXV0ZHdk1ja1hyd0ZwVHc2WFg4PRJmWjpBRHF0QVp5cnNzeWlPcGU2a2NiQnpLd2JqdmtaR2RXaUMxb1JZOWVXOGlHNGtTMkYxenZaYk5oSjZ5S0tCNFo5Y2NvY1AxV1k1dWxCeGpmSm9ZZlhwRlUzMWRPK3poVTFYQT09GAAgACgAMP3TnIOE4YgDOJqAm/miMkCagJv5ojJKHEVrbGZBUGhUb0w0Y0hTTWhjS3M0Wi9UL0htOD1aHyIdtlE1eDNSVzVvQUROSFBLMEN4b1BPVmhRTGtoND1lAAAAABLtAQgIEugBChw2ZnJmSi9wa1g5bzRFQTFYVTBWOFp5MDJDaU09EmZaOkFEcXRBWnlyc3N5aU9wZTZrY2JCekt3Ymp2a1p4TTFjNmJKTUIzNW4yZDJCOFdxclJJNlVBbFROaGNWZ1VUNjBSKytWWHpoRmthc3ZiakZzOEhnd3l5bHl1bDFRQTZSRm5nPT0YACAAKAAwjoCghoThiAM459+s+aIyQOffrPmiMkocOGhCRTZ5TkxNTSsrd0VIU1VNeGpUVEpOQ0lFPVogIh7/23ZpanZCYVhIc2lMY0NMU01DZmFpQjNCUHpZVT1lAAAAABLvAQgFEuoBChxxTFpiWHNqTjdXcm5laCtWZXV4VzhMV2tNQVk9EmZaOkFEcXRBWnlyc3N5aU9wZTZrY2JCekt3Ymp2a1owTGVITThVUEZGMXhFVjlaTVNiUzB3dkk1aGRBRHVzMHpBSG1HNUZ5YVl2S1QwNDRPc0t3ZUlUSlgwdU1HRGhDaEVxY1N3PT0YACAAKAAwnc39s/yKiQM4k86ag6gyQJPOmoOoMkocL2JVd1ltdmNxTEExNjB0MXFDY2hUaldLRjZNPVoiIiD////qTVo5NThTNmVRdVdIa3B2OEhtS2ZRclVUQndZPWUfVoDyEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFad0taOHZCdVFaVG9LTkhYaFFhU2JCWFc1aElvUzIwTDRoWlZqcGNzNmtSVmtzeVBNWUV6cXdYaWYzanEybTNBNzM1ZUkreBgAIAAoADDP9uLwidWJAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEq0CCAYSqAIKHHpadi9LdjM1bnA0TEhEVnhJK2tpek9PRk1zZz0SpgFaOkFEcXRBWnpjRi9HeEVtZE55MisrRjBoMEFsZG1NQmZaM3hOb0JUTDJCRFpkVUpGYzdxeWF6YUF5b1dzNGdNM2FmWDlTSnMwYnRTRjRtbVh0RFdqOGUraEtKUTNKK0U4N3pYNjRHM2J5djMrQVZFWXZtTVI2Ymp5RHl2T3RJNFRGMlpQYWF2T1phdzd5V1pTc2dYWFBDb2Y0YitqT2hQTlFkZz09GAAgACgAMPm+gITOnYkDOKSbp9qtLkCkm6farS5KHGpmZ1dGZUZsUzNidjl5UFROdEFIRnUwTC9aZz1aHyId00JDT2g5TDZmUnJZS00xcFhiaW5tU0ltTzlRQT1l/ZyMShLrAQgKEuYBChx5dHF6a1lqYmdvZXViZG5lL2ZmcTBXL2EwSEU9EmZaOkFEcXRBWnlyc3N5aU9wZTZrY2JCekt3Ymp2a1pOSlB6WmRVTlA5a1RKZERpRlpwVnlXWkRWYS9rdnpoandWRmozenRYWDdJUTIvRDJCeVBEUUN1TzJSUXhyZlBCZW1pZXFnPT0YACAAKAAw/dOcg4ThiAM4tu2b+aIyQLbtm/miMkocMGRJMGh5K3dCWTRYY05qRFNQL0dpdmVWKzMwPVoeIhxtbXNIQU4zYkNlQ2FHN1B1czJRS2NWamVpWEk9ZQAAAAASrQIIBxKoAgocUW5oRThWOHpGUDJucStFSUZHUTNPMnZ3WTdzPRKmAVo6QURxdEFaemNGL0d4RW1kTnkyKytGMGgwQWxkbU0vWHlFRTVlTTFReERRajc4RU5TZmtSdE9TS2NJZnhaV2h0RlltdEZhTTZqSmJ0VUV2Vmg5VTFjeEVLTUk2a1krb0RNL1pRaCsreE9hR21CRzZBNkczU2YyN2N1SXE5YVViWDNiU0tlYitvN25scFV5djFxam1JdmYyWmRUZm1CaU05cER3PT0YACAFKAUwhbu5yInZiQM4ra2V8pIvQLHklKiyMkocQytQNFJNZkZUTlJ3TUsrY2ZxK3RiRUJJdjhZPVofIh3/SVdkaC9MVGtsT0ZxTHdaRG00VmJUQndva2s4PWUDm80sEusBCAkS5gEKHEw0QlNjeXRZd1hYVE9BVDBrZ1gyRnJOeGdvUT0SZlo6QURxdEFaeXJzc3lpT3BlNmtjYkJ6S3dianZrWmdkekdlOHN4aXVHdldkM3VJVjlpWjEwYUo4RjhYWUtPYzZiOG5JeitTQkRqTmtMUHF3Q3dBWURjeHB1UlRmdnVwZElIWkE9PRgAIAAoADDO3OSBhOGIAzi0n6z5ojJAtJ+s+aIyShxCYlA2SHhHR2RYTTBsMXJtUmM5OGJ4NDZGSlE9Wh4iHEFMc2t3eE1ZdW5Bd2NuOXI0NXdkajVpNGtxYz1l6/DDmRLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnc2MFNRcjdvR0hRVkxtb21CMkVsMTRERi9RVHZnS2RFQ1VDei9CNS9sZ2t6eDlsc3pFcEt0aW5JZ3ZtbUVUZkx2Uk9md3FHRkgxT0xHNjdSTFI1ZnRBY3RnN1JRPT0YACAAKAAwz/bi8InViQM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAADABOAA=",
+   "version": 1
+}

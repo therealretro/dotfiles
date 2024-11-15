@@ -1,0 +1,10 @@
+[Added Associations]
+application/x-shellscript=sublime_text.desktop;
+application/x-fishscript=sublime_text.desktop;
+text/plain=sublime_text.desktop;
+application/pdf=thorium-browser.desktop;onlyoffice-desktopeditors.desktop;
+application/octet-stream=sublime_text.desktop;
+
+[Default Applications]
+text/plain=sublime_text.desktop
+application/octet-stream=sublime_text.desktop

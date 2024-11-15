@@ -1,0 +1,21 @@
+2024/11/15-16:49:03.697 2f3 Reusing MANIFEST /home/retro/.config/thorium/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/11/15-16:49:03.800 2f3 Recovering log #47
+2024/11/15-16:49:03.826 2f3 Reusing old log /home/retro/.config/thorium/Default/Sync Data/LevelDB/000047.log 
+2024/11/15-17:27:46.187 2f4 Level-0 table #51: started
+2024/11/15-17:27:46.198 2f4 Level-0 table #51: 128098 bytes OK
+2024/11/15-17:27:46.212 2f4 Delete type=0 #47
+2024/11/15-17:48:48.241 2fb Level-0 table #53: started
+2024/11/15-17:48:48.253 2fb Level-0 table #53: 107183 bytes OK
+2024/11/15-17:48:48.266 2fb Delete type=0 #50
+2024/11/15-17:48:48.266 2fb Compacting 4@0 + 1@1 files
+2024/11/15-17:48:48.277 2fb Generated table #54@0: 98 keys, 21399 bytes
+2024/11/15-17:48:48.277 2fb Compacted 4@0 + 1@1 files => 21399 bytes
+2024/11/15-17:48:48.290 2fb compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/15-17:48:48.290 2fb Delete type=2 #45
+2024/11/15-17:48:48.291 2fb Delete type=2 #48
+2024/11/15-17:48:48.291 2fb Delete type=2 #51
+2024/11/15-17:48:48.291 2fb Delete type=2 #43
+2024/11/15-17:48:48.291 2fb Delete type=2 #53
+2024/11/15-18:06:22.764 2fb Level-0 table #56: started
+2024/11/15-18:06:22.783 2fb Level-0 table #56: 107873 bytes OK
+2024/11/15-18:06:22.796 2fb Delete type=0 #52

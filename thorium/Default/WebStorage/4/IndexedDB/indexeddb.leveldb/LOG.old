@@ -1,0 +1,9 @@
+2024/11/15-17:31:02.779 2fb Reusing MANIFEST /home/retro/.config/thorium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/11/15-17:31:02.779 2fb Recovering log #7
+2024/11/15-17:31:02.779 2fb Reusing old log /home/retro/.config/thorium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/000007.log 
+2024/11/15-17:31:24.150 2f3 Compacting 1@1 + 1@2 files
+2024/11/15-17:31:24.165 2f3 Generated table #10@1: 66 keys, 9717 bytes
+2024/11/15-17:31:24.165 2f3 Compacted 1@1 + 1@2 files => 9717 bytes
+2024/11/15-17:31:24.178 2f3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/15-17:31:24.178 2f3 Delete type=2 #8
+2024/11/15-17:31:24.178 2f3 Delete type=2 #5

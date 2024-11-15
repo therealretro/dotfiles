@@ -1,0 +1,6 @@
+2024/11/13-21:07:25.769 3a69 Creating DB /home/retro/.config/thorium/Default/IndexedDB/https_penalty-kick-wiz.game-files.crazygames.com_0.indexeddb.leveldb since it was missing.
+2024/11/13-21:07:25.799 3a69 Reusing MANIFEST /home/retro/.config/thorium/Default/IndexedDB/https_penalty-kick-wiz.game-files.crazygames.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/13-21:08:15.519 3a69 Level-0 table #5: started
+2024/11/13-21:08:15.529 3a69 Level-0 table #5: 7439 bytes OK
+2024/11/13-21:08:15.542 3a69 Delete type=0 #3
+2024/11/13-21:08:15.543 3a69 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

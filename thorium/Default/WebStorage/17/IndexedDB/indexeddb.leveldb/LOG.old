@@ -1,0 +1,7 @@
+2024/11/14-18:03:14.531 2cb Reusing MANIFEST /home/retro/.config/thorium/Default/WebStorage/17/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/11/14-18:03:14.532 2cb Recovering log #3
+2024/11/14-18:03:14.541 2cb Reusing old log /home/retro/.config/thorium/Default/WebStorage/17/IndexedDB/indexeddb.leveldb/000003.log 
+2024/11/14-18:03:17.610 2cc Level-0 table #5: started
+2024/11/14-18:03:17.627 2cc Level-0 table #5: 476000 bytes OK
+2024/11/14-18:03:17.642 2cc Delete type=0 #3
+2024/11/14-18:03:17.642 2cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

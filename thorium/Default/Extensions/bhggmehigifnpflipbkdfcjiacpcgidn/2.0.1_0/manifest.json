@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://www.tinkercad.com/"
+      },
+      "urls": [ "https://www.tinkercad.com/" ]
+   },
+   "author": "Autodesk",
+   "description": "Tinkercad - a browser based CAD for 3D printing.",
+   "icons": {
+      "128": "128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDYPpGBLNHL9n4DOgp8flaKn/BUsQ4xV0+4uurI5eP4WaAWfYX89SP4w19+S78BwBceM7qQN6jWrTlbDtneUTsn4EJTTaEd/JY9JFAlB150bllxK48YgQI5JI9y3fjVg76tFR1RdvpLQUYXzVAmgf+NA+6qDxxlAJDZj7an86NBfwIDAQAB",
+   "manifest_version": 2,
+   "name": "Tinkercad",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.1"
+}
