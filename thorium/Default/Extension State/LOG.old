@@ -1,3 +1,6 @@
-2024/11/14-22:04:13.066 2871 Reusing MANIFEST /home/retro/.config/thorium/Default/Extension State/MANIFEST-000001
-2024/11/14-22:04:13.066 2871 Recovering log #10
-2024/11/14-22:04:13.066 2871 Reusing old log /home/retro/.config/thorium/Default/Extension State/000010.log 
+2024/11/15-21:34:51.517 f910 Reusing MANIFEST /home/retro/.config/thorium/Default/Extension State/MANIFEST-000001
+2024/11/15-21:34:51.518 f910 Recovering log #10
+2024/11/15-21:34:51.599 f910 Reusing old log /home/retro/.config/thorium/Default/Extension State/000010.log 
+2024/11/15-22:40:31.307 f8fb Level-0 table #14: started
+2024/11/15-22:40:31.341 f8fb Level-0 table #14: 1111402 bytes OK
+2024/11/15-22:40:31.359 f8fb Delete type=0 #10

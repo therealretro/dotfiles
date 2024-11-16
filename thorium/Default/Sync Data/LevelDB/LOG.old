@@ -1,3 +1,21 @@
-2024/11/14-22:04:12.682 2871 Reusing MANIFEST /home/retro/.config/thorium/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/11/14-22:04:12.682 2871 Recovering log #47
-2024/11/14-22:04:12.683 2871 Reusing old log /home/retro/.config/thorium/Default/Sync Data/LevelDB/000047.log 
+2024/11/15-21:34:51.254 f8fa Reusing MANIFEST /home/retro/.config/thorium/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/11/15-21:34:51.255 f8fa Recovering log #57
+2024/11/15-21:34:51.268 f8fa Reusing old log /home/retro/.config/thorium/Default/Sync Data/LevelDB/000057.log 
+2024/11/15-22:16:16.446 f8fb Level-0 table #61: started
+2024/11/15-22:16:16.458 f8fb Level-0 table #61: 142157 bytes OK
+2024/11/15-22:16:16.476 f8fb Delete type=0 #57
+2024/11/15-22:50:26.332 f8fa Level-0 table #63: started
+2024/11/15-22:50:26.343 f8fa Level-0 table #63: 108904 bytes OK
+2024/11/15-22:50:26.362 f8fa Delete type=0 #60
+2024/11/15-22:50:26.363 f8fa Compacting 4@0 + 1@1 files
+2024/11/15-22:50:26.374 f8fa Generated table #64@0: 98 keys, 19598 bytes
+2024/11/15-22:50:26.374 f8fa Compacted 4@0 + 1@1 files => 19598 bytes
+2024/11/15-22:50:26.387 f8fa compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/15-22:50:26.387 f8fa Delete type=2 #56
+2024/11/15-22:50:26.387 f8fa Delete type=2 #58
+2024/11/15-22:50:26.387 f8fa Delete type=2 #61
+2024/11/15-22:50:26.387 f8fa Delete type=2 #54
+2024/11/15-22:50:26.387 f8fa Delete type=2 #63
+2024/11/15-23:12:43.095 f8fb Level-0 table #66: started
+2024/11/15-23:12:43.123 f8fb Level-0 table #66: 141722 bytes OK
+2024/11/15-23:12:43.146 f8fb Delete type=0 #62

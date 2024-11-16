@@ -1,15 +1,16 @@
-2024/11/15-16:49:04.508 4 Reusing MANIFEST /home/retro/.config/thorium/Default/Session Storage/MANIFEST-000001
-2024/11/15-16:49:04.513 4 Recovering log #37
-2024/11/15-16:49:04.520 4 Reusing old log /home/retro/.config/thorium/Default/Session Storage/000037.log 
-2024/11/15-17:21:47.792 5 Level-0 table #41: started
-2024/11/15-17:21:47.810 5 Level-0 table #41: 24699 bytes OK
-2024/11/15-17:21:47.831 5 Delete type=0 #37
-2024/11/15-17:21:47.832 5 Compacting 4@0 + 1@1 files
-2024/11/15-17:21:47.844 5 Generated table #42@0: 2605 keys, 50871 bytes
-2024/11/15-17:21:47.844 5 Compacted 4@0 + 1@1 files => 50871 bytes
-2024/11/15-17:21:47.857 5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/11/15-17:21:47.858 5 Delete type=2 #34
-2024/11/15-17:21:47.858 5 Delete type=2 #32
-2024/11/15-17:21:47.858 5 Delete type=2 #38
-2024/11/15-17:21:47.858 5 Delete type=2 #36
-2024/11/15-17:21:47.858 5 Delete type=2 #41
+2024/11/16-14:09:24.118 4 Reusing MANIFEST /home/retro/.config/thorium/Default/Session Storage/MANIFEST-000001
+2024/11/16-14:09:24.124 4 Recovering log #49
+2024/11/16-14:09:24.129 4 Level-0 table #52: started
+2024/11/16-14:09:24.146 4 Level-0 table #52: 25663 bytes OK
+2024/11/16-14:09:24.147 4 Recovering log #51
+2024/11/16-14:09:24.154 4 Reusing old log /home/retro/.config/thorium/Default/Session Storage/000051.log 
+2024/11/16-14:09:24.179 4 Delete type=0 #49
+2024/11/16-14:09:24.184 5 Compacting 4@0 + 1@1 files
+2024/11/16-14:09:24.274 5 Generated table #53@0: 3372 keys, 80080 bytes
+2024/11/16-14:09:24.274 5 Compacted 4@0 + 1@1 files => 80080 bytes
+2024/11/16-14:09:24.303 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/16-14:09:24.303 5 Delete type=2 #52
+2024/11/16-14:09:24.303 5 Delete type=2 #44
+2024/11/16-14:09:24.303 5 Delete type=2 #42
+2024/11/16-14:09:24.303 5 Delete type=2 #50
+2024/11/16-14:09:24.303 5 Delete type=2 #47

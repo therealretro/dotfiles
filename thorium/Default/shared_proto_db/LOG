@@ -1,6 +1,3 @@
-2024/11/15-16:49:04.676 2f3 Reusing MANIFEST /home/retro/.config/thorium/Default/shared_proto_db/MANIFEST-000001
-2024/11/15-16:49:04.676 2f3 Recovering log #3
-2024/11/15-16:49:04.712 2f3 Reusing old log /home/retro/.config/thorium/Default/shared_proto_db/000003.log 
-2024/11/15-18:00:52.207 2f4 Level-0 table #5: started
-2024/11/15-18:00:52.229 2f4 Level-0 table #5: 122339 bytes OK
-2024/11/15-18:00:52.249 2f4 Delete type=0 #3
+2024/11/16-14:09:24.331 5cd Reusing MANIFEST /home/retro/.config/thorium/Default/shared_proto_db/MANIFEST-000001
+2024/11/16-14:09:24.332 5cd Recovering log #4
+2024/11/16-14:09:24.359 5cd Reusing old log /home/retro/.config/thorium/Default/shared_proto_db/000004.log 

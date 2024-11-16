@@ -1,26 +1,23 @@
-2024/11/15-16:49:05.798 31a Reusing MANIFEST /home/retro/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/MANIFEST-000001
-2024/11/15-16:49:05.801 31a Recovering log #91
-2024/11/15-16:49:05.802 31a Reusing old log /home/retro/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/000091.log 
-2024/11/15-16:49:44.723 2fb Level-0 table #95: started
-2024/11/15-16:49:44.752 2fb Level-0 table #95: 4141966 bytes OK
-2024/11/15-16:49:44.775 2fb Delete type=0 #91
-2024/11/15-16:50:43.255 2fb Level-0 table #97: started
-2024/11/15-16:50:43.285 2fb Level-0 table #97: 4319737 bytes OK
-2024/11/15-16:50:43.298 2fb Delete type=0 #94
-2024/11/15-16:50:43.299 2fb Compacting 4@0 + 3@1 files
-2024/11/15-16:50:43.320 2fb Generated table #98@0: 4 keys, 2382422 bytes
-2024/11/15-16:50:43.345 2fb Generated table #99@0: 7 keys, 2651237 bytes
-2024/11/15-16:50:43.372 2fb Generated table #100@0: 3 keys, 2433443 bytes
-2024/11/15-16:50:43.395 2fb Generated table #101@0: 10 keys, 1110857 bytes
-2024/11/15-16:50:43.395 2fb Compacted 4@0 + 3@1 files => 8577959 bytes
-2024/11/15-16:50:43.411 2fb compacted to: files[ 0 4 5 0 0 0 0 ]
-2024/11/15-16:50:43.411 2fb Delete type=2 #85
-2024/11/15-16:50:43.411 2fb Delete type=2 #83
-2024/11/15-16:50:43.411 2fb Delete type=2 #95
-2024/11/15-16:50:43.411 2fb Delete type=2 #90
-2024/11/15-16:50:43.411 2fb Delete type=2 #84
-2024/11/15-16:50:43.411 2fb Delete type=2 #97
-2024/11/15-16:50:43.411 2fb Delete type=2 #92
-2024/11/15-16:50:46.702 2f3 Level-0 table #103: started
-2024/11/15-16:50:46.744 2f3 Level-0 table #103: 4534201 bytes OK
-2024/11/15-16:50:46.757 2f3 Delete type=0 #96
+2024/11/16-14:09:25.512 5cd Reusing MANIFEST /home/retro/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/MANIFEST-000001
+2024/11/16-14:09:25.513 5cd Recovering log #107
+2024/11/16-14:09:25.516 5cd Reusing old log /home/retro/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/000107.log 
+2024/11/16-14:10:04.392 5d5 Level-0 table #111: started
+2024/11/16-14:10:04.422 5d5 Level-0 table #111: 4225897 bytes OK
+2024/11/16-14:10:04.445 5d5 Delete type=0 #107
+2024/11/16-14:10:04.445 5d5 Compacting 4@0 + 4@1 files
+2024/11/16-14:10:04.468 5d5 Generated table #112@0: 4 keys, 2382875 bytes
+2024/11/16-14:10:04.493 5d5 Generated table #113@0: 7 keys, 2651654 bytes
+2024/11/16-14:10:04.530 5d5 Generated table #114@0: 15 keys, 1944018 bytes
+2024/11/16-14:10:04.530 5d5 Compacted 4@0 + 4@1 files => 6978547 bytes
+2024/11/16-14:10:04.548 5d5 compacted to: files[ 0 3 5 0 0 0 0 ]
+2024/11/16-14:10:04.548 5d5 Delete type=2 #103
+2024/11/16-14:10:04.548 5d5 Delete type=2 #106
+2024/11/16-14:10:04.548 5d5 Delete type=2 #108
+2024/11/16-14:10:04.548 5d5 Delete type=2 #98
+2024/11/16-14:10:04.548 5d5 Delete type=2 #111
+2024/11/16-14:10:04.548 5d5 Delete type=2 #101
+2024/11/16-14:10:04.548 5d5 Delete type=2 #100
+2024/11/16-14:10:04.549 5d5 Delete type=2 #99
+2024/11/16-14:11:01.453 5cc Level-0 table #116: started
+2024/11/16-14:11:01.507 5cc Level-0 table #116: 7496986 bytes OK
+2024/11/16-14:11:01.520 5cc Delete type=0 #110

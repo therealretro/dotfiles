@@ -1,25 +1,14 @@
-2024/11/14-22:11:51.911 2871 Reusing MANIFEST /home/retro/.config/thorium/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/14-22:11:51.911 2871 Recovering log #280
-2024/11/14-22:11:51.911 2871 Reusing old log /home/retro/.config/thorium/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/000280.log 
-2024/11/14-22:11:51.911 2871 Delete type=2 #278
-2024/11/14-22:11:51.953 2871 Level-0 table #285: started
-2024/11/14-22:11:51.963 2871 Level-0 table #285: 622 bytes OK
-2024/11/14-22:11:51.976 2871 Delete type=0 #280
-2024/11/14-22:11:51.976 2871 Manual compaction at level-0 from '\x00H\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00I\x00\x00\x00' @ 0 : 0; will stop at '\x00H\x00\x00\x05' @ 3761 : 1
-2024/11/14-22:11:51.976 2871 Compacting 1@0 + 1@1 files
-2024/11/14-22:11:51.986 2871 Generated table #286@0: 403 keys, 55110 bytes
-2024/11/14-22:11:51.986 2871 Compacted 1@0 + 1@1 files => 55110 bytes
-2024/11/14-22:11:52.000 2871 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/11/14-22:11:52.000 2871 Delete type=2 #285
-2024/11/14-22:11:52.001 287b Manual compaction at level-0 from '\x00H\x00\x00\x05' @ 3761 : 1 .. '\x00I\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/11/14-22:12:29.345 2872 Level-0 table #288: started
-2024/11/14-22:12:29.356 2872 Level-0 table #288: 628 bytes OK
-2024/11/14-22:12:29.369 2872 Delete type=2 #282
-2024/11/14-22:12:29.369 2872 Delete type=0 #284
-2024/11/14-22:12:29.370 2872 Manual compaction at level-0 from '\x00I\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00J\x00\x00\x00' @ 0 : 0; will stop at '\x00I\x00\x00\x05' @ 3780 : 1
-2024/11/14-22:12:29.370 2872 Compacting 1@0 + 1@1 files
-2024/11/14-22:12:29.381 2872 Generated table #289@0: 405 keys, 55218 bytes
-2024/11/14-22:12:29.381 2872 Compacted 1@0 + 1@1 files => 55218 bytes
-2024/11/14-22:12:29.395 2872 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/11/14-22:12:29.395 2872 Delete type=2 #288
-2024/11/14-22:12:29.395 287c Manual compaction at level-0 from '\x00I\x00\x00\x05' @ 3780 : 1 .. '\x00J\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/15-21:34:52.154 f8ff Reusing MANIFEST /home/retro/.config/thorium/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/15-21:34:52.154 f8ff Recovering log #295
+2024/11/15-21:34:52.154 f8ff Reusing old log /home/retro/.config/thorium/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/000295.log 
+2024/11/15-21:34:52.154 f8ff Delete type=2 #293
+2024/11/15-21:34:52.198 f8ff Level-0 table #300: started
+2024/11/15-21:34:52.208 f8ff Level-0 table #300: 9346 bytes OK
+2024/11/15-21:34:52.221 f8ff Delete type=0 #295
+2024/11/15-21:34:52.221 f8ff Manual compaction at level-0 from '\x00L\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00M\x00\x00\x00' @ 0 : 0; will stop at '\x00L\x00\x00\x05' @ 4277 : 1
+2024/11/15-21:34:52.221 f8ff Compacting 1@0 + 1@1 files
+2024/11/15-21:34:52.232 f8ff Generated table #301@0: 408 keys, 55816 bytes
+2024/11/15-21:34:52.232 f8ff Compacted 1@0 + 1@1 files => 55816 bytes
+2024/11/15-21:34:52.246 f8ff compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/15-21:34:52.246 f8ff Delete type=2 #300
+2024/11/15-21:34:52.249 f8ff Manual compaction at level-0 from '\x00L\x00\x00\x05' @ 4277 : 1 .. '\x00M\x00\x00\x00' @ 0 : 0; will stop at (end)

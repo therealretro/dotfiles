@@ -1,9 +1,15 @@
-2024/11/15-16:49:05.827 31a Reusing MANIFEST /home/retro/.config/thorium/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/MANIFEST-000001
-2024/11/15-16:49:05.827 31a Recovering log #59
-2024/11/15-16:49:05.845 31a Reusing old log /home/retro/.config/thorium/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/000059.log 
-2024/11/15-16:49:13.454 2fb Level-0 table #63: started
-2024/11/15-16:49:13.472 2fb Level-0 table #63: 1042438 bytes OK
-2024/11/15-16:49:13.486 2fb Delete type=0 #59
-2024/11/15-17:49:15.227 2f4 Level-0 table #65: started
-2024/11/15-17:49:15.244 2f4 Level-0 table #65: 797802 bytes OK
-2024/11/15-17:49:15.259 2f4 Delete type=0 #62
+2024/11/16-14:09:25.544 5cd Reusing MANIFEST /home/retro/.config/thorium/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/MANIFEST-000001
+2024/11/16-14:09:25.544 5cd Recovering log #75
+2024/11/16-14:09:25.560 5cd Reusing old log /home/retro/.config/thorium/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/000075.log 
+2024/11/16-14:09:31.587 5cc Level-0 table #79: started
+2024/11/16-14:09:31.609 5cc Level-0 table #79: 1038918 bytes OK
+2024/11/16-14:09:31.623 5cc Delete type=0 #75
+2024/11/16-14:09:31.623 5cc Compacting 4@0 + 1@1 files
+2024/11/16-14:09:31.648 5cc Generated table #80@0: 4 keys, 246250 bytes
+2024/11/16-14:09:31.648 5cc Compacted 4@0 + 1@1 files => 246250 bytes
+2024/11/16-14:09:31.675 5cc compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/16-14:09:31.675 5cc Delete type=2 #68
+2024/11/16-14:09:31.675 5cc Delete type=2 #79
+2024/11/16-14:09:31.675 5cc Delete type=2 #76
+2024/11/16-14:09:31.675 5cc Delete type=2 #74
+2024/11/16-14:09:31.675 5cc Delete type=2 #71

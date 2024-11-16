@@ -1,6 +1,6 @@
 [ExtractDialog]
 1920x1080 screen: Window-Maximized=true
-DirHistory[$e]=$HOME/Downloads/New Folder/
+DirHistory[$e]=$HOME/.config/nvim/,$HOME/Downloads/New Folder/
 
 [General]
 LockSidebar=true

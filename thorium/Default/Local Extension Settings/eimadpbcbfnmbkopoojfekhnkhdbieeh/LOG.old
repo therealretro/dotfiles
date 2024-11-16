@@ -1,3 +1,18 @@
-2024/11/14-22:04:12.986 2873 Reusing MANIFEST /home/retro/.config/thorium/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/MANIFEST-000001
-2024/11/14-22:04:12.987 2873 Recovering log #27
-2024/11/14-22:04:12.989 2873 Reusing old log /home/retro/.config/thorium/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/000027.log 
+2024/11/15-21:34:51.602 f91d Reusing MANIFEST /home/retro/.config/thorium/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/MANIFEST-000001
+2024/11/15-21:34:51.602 f91d Recovering log #36
+2024/11/15-21:34:51.617 f91d Reusing old log /home/retro/.config/thorium/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/000036.log 
+2024/11/15-22:36:02.314 f8ff Level-0 table #40: started
+2024/11/15-22:36:02.415 f8ff Level-0 table #40: 2109707 bytes OK
+2024/11/15-22:36:02.429 f8ff Delete type=0 #36
+2024/11/15-22:36:02.429 f8ff Compacting 4@0 + 1@1 files
+2024/11/15-22:36:02.447 f8ff Generated table #41@0: 2 keys, 20257 bytes
+2024/11/15-22:36:02.447 f8ff Compacted 4@0 + 1@1 files => 20257 bytes
+2024/11/15-22:36:02.460 f8ff compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/15-22:36:02.460 f8ff Delete type=2 #40
+2024/11/15-22:36:02.460 f8ff Delete type=2 #34
+2024/11/15-22:36:02.460 f8ff Delete type=2 #37
+2024/11/15-22:36:02.461 f8ff Delete type=2 #32
+2024/11/15-22:36:02.461 f8ff Delete type=2 #29
+2024/11/15-23:00:19.735 f8fa Level-0 table #43: started
+2024/11/15-23:00:19.758 f8fa Level-0 table #43: 2041161 bytes OK
+2024/11/15-23:00:19.772 f8fa Delete type=0 #39

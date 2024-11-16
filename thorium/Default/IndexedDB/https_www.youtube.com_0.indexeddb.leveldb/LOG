@@ -1,12 +1,12 @@
-2024/11/15-16:49:21.705 2f4 Reusing MANIFEST /home/retro/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/15-16:49:21.707 2f4 Recovering log #103
-2024/11/15-16:49:21.727 2f4 Reusing old log /home/retro/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000103.log 
-2024/11/15-16:50:12.240 2f4 Level-0 table #108: started
-2024/11/15-16:50:12.257 2f4 Level-0 table #108: 1150116 bytes OK
-2024/11/15-16:50:12.271 2f4 Delete type=0 #103
-2024/11/15-17:04:58.304 2fb Compacting 1@1 + 1@2 files
-2024/11/15-17:04:58.318 2fb Generated table #109@1: 342 keys, 38761 bytes
-2024/11/15-17:04:58.318 2fb Compacted 1@1 + 1@2 files => 38761 bytes
-2024/11/15-17:04:58.331 2fb compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/11/15-17:04:58.331 2fb Delete type=2 #108
-2024/11/15-17:04:58.331 2fb Delete type=2 #105
+2024/11/16-14:09:46.336 5cc Reusing MANIFEST /home/retro/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/16-14:09:46.336 5cc Recovering log #142
+2024/11/16-14:09:46.364 5cc Reusing old log /home/retro/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000142.log 
+2024/11/16-14:09:48.839 5d4 Level-0 table #147: started
+2024/11/16-14:09:48.870 5d4 Level-0 table #147: 1442745 bytes OK
+2024/11/16-14:09:48.894 5d4 Delete type=0 #142
+2024/11/16-14:09:50.093 5cc Compacting 1@1 + 1@2 files
+2024/11/16-14:09:50.106 5cc Generated table #148@1: 470 keys, 54517 bytes
+2024/11/16-14:09:50.106 5cc Compacted 1@1 + 1@2 files => 54517 bytes
+2024/11/16-14:09:50.119 5cc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/16-14:09:50.119 5cc Delete type=2 #144
+2024/11/16-14:09:50.119 5cc Delete type=2 #147
