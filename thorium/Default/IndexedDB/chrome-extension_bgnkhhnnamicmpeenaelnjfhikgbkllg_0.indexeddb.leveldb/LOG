@@ -1,14 +1,14 @@
-2024/11/16-14:09:25.740 5cd Reusing MANIFEST /home/retro/.config/thorium/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/16-14:09:25.740 5cd Recovering log #299
-2024/11/16-14:09:25.742 5cd Reusing old log /home/retro/.config/thorium/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/000299.log 
-2024/11/16-14:09:25.742 5cd Delete type=2 #297
-2024/11/16-14:09:25.842 5d5 Level-0 table #304: started
-2024/11/16-14:09:25.864 5d5 Level-0 table #304: 16607 bytes OK
-2024/11/16-14:09:25.890 5d5 Delete type=0 #299
-2024/11/16-14:09:25.890 5cc Manual compaction at level-0 from '\x00M\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00N\x00\x00\x00' @ 0 : 0; will stop at '\x00M\x00\x00\x05' @ 4472 : 1
-2024/11/16-14:09:25.890 5cc Compacting 1@0 + 1@1 files
-2024/11/16-14:09:25.902 5cc Generated table #305@0: 409 keys, 56432 bytes
-2024/11/16-14:09:25.902 5cc Compacted 1@0 + 1@1 files => 56432 bytes
-2024/11/16-14:09:25.920 5cc compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/11/16-14:09:25.921 5cc Delete type=2 #304
-2024/11/16-14:09:25.922 5cc Manual compaction at level-0 from '\x00M\x00\x00\x05' @ 4472 : 1 .. '\x00N\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/16-22:10:34.563 327 Reusing MANIFEST /home/retro/.config/thorium/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/16-22:10:34.563 327 Recovering log #323
+2024/11/16-22:10:34.568 327 Reusing old log /home/retro/.config/thorium/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/000323.log 
+2024/11/16-22:10:34.568 327 Delete type=2 #321
+2024/11/16-22:10:34.644 329 Level-0 table #328: started
+2024/11/16-22:10:34.659 329 Level-0 table #328: 610 bytes OK
+2024/11/16-22:10:34.709 329 Delete type=0 #323
+2024/11/16-22:10:34.709 327 Manual compaction at level-0 from '\x00S\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00T\x00\x00\x00' @ 0 : 0; will stop at '\x00S\x00\x00\x05' @ 5385 : 1
+2024/11/16-22:10:34.709 327 Compacting 1@0 + 1@1 files
+2024/11/16-22:10:34.729 327 Generated table #329@0: 428 keys, 57018 bytes
+2024/11/16-22:10:34.730 327 Compacted 1@0 + 1@1 files => 57018 bytes
+2024/11/16-22:10:34.752 327 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/16-22:10:34.752 327 Delete type=2 #328
+2024/11/16-22:10:34.752 327 Manual compaction at level-0 from '\x00S\x00\x00\x05' @ 5385 : 1 .. '\x00T\x00\x00\x00' @ 0 : 0; will stop at (end)

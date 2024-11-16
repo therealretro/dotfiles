@@ -1,15 +1,18 @@
-2024/11/16-14:09:25.544 5cd Reusing MANIFEST /home/retro/.config/thorium/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/MANIFEST-000001
-2024/11/16-14:09:25.544 5cd Recovering log #75
-2024/11/16-14:09:25.560 5cd Reusing old log /home/retro/.config/thorium/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/000075.log 
-2024/11/16-14:09:31.587 5cc Level-0 table #79: started
-2024/11/16-14:09:31.609 5cc Level-0 table #79: 1038918 bytes OK
-2024/11/16-14:09:31.623 5cc Delete type=0 #75
-2024/11/16-14:09:31.623 5cc Compacting 4@0 + 1@1 files
-2024/11/16-14:09:31.648 5cc Generated table #80@0: 4 keys, 246250 bytes
-2024/11/16-14:09:31.648 5cc Compacted 4@0 + 1@1 files => 246250 bytes
-2024/11/16-14:09:31.675 5cc compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/11/16-14:09:31.675 5cc Delete type=2 #68
-2024/11/16-14:09:31.675 5cc Delete type=2 #79
-2024/11/16-14:09:31.675 5cc Delete type=2 #76
-2024/11/16-14:09:31.675 5cc Delete type=2 #74
-2024/11/16-14:09:31.675 5cc Delete type=2 #71
+2024/11/16-22:10:34.368 341 Reusing MANIFEST /home/retro/.config/thorium/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/MANIFEST-000001
+2024/11/16-22:10:34.371 341 Recovering log #95
+2024/11/16-22:10:34.379 341 Reusing old log /home/retro/.config/thorium/Default/Local Extension Settings/bgnkhhnnamicmpeenaelnjfhikgbkllg/000095.log 
+2024/11/16-22:34:02.710 31d Level-0 table #99: started
+2024/11/16-22:34:02.735 31d Level-0 table #99: 1042645 bytes OK
+2024/11/16-22:34:02.749 31d Delete type=0 #95
+2024/11/16-22:53:09.532 31d Level-0 table #101: started
+2024/11/16-22:53:09.551 31d Level-0 table #101: 896740 bytes OK
+2024/11/16-22:53:09.565 31d Delete type=0 #98
+2024/11/16-22:53:09.566 31d Compacting 4@0 + 1@1 files
+2024/11/16-22:53:09.589 31d Generated table #102@0: 4 keys, 246419 bytes
+2024/11/16-22:53:09.590 31d Compacted 4@0 + 1@1 files => 246419 bytes
+2024/11/16-22:53:09.604 31d compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/16-22:53:09.605 31d Delete type=2 #93
+2024/11/16-22:53:09.605 31d Delete type=2 #91
+2024/11/16-22:53:09.605 31d Delete type=2 #101
+2024/11/16-22:53:09.605 31d Delete type=2 #96
+2024/11/16-22:53:09.605 31d Delete type=2 #99

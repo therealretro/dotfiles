@@ -1,12 +1,24 @@
-2024/11/16-14:09:46.336 5cc Reusing MANIFEST /home/retro/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/16-14:09:46.336 5cc Recovering log #142
-2024/11/16-14:09:46.364 5cc Reusing old log /home/retro/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000142.log 
-2024/11/16-14:09:48.839 5d4 Level-0 table #147: started
-2024/11/16-14:09:48.870 5d4 Level-0 table #147: 1442745 bytes OK
-2024/11/16-14:09:48.894 5d4 Delete type=0 #142
-2024/11/16-14:09:50.093 5cc Compacting 1@1 + 1@2 files
-2024/11/16-14:09:50.106 5cc Generated table #148@1: 470 keys, 54517 bytes
-2024/11/16-14:09:50.106 5cc Compacted 1@1 + 1@2 files => 54517 bytes
-2024/11/16-14:09:50.119 5cc compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/11/16-14:09:50.119 5cc Delete type=2 #144
-2024/11/16-14:09:50.119 5cc Delete type=2 #147
+2024/11/16-22:10:39.145 327 Reusing MANIFEST /home/retro/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/16-22:10:39.146 327 Recovering log #179
+2024/11/16-22:10:39.149 327 Reusing old log /home/retro/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000179.log 
+2024/11/16-22:21:46.994 31e Level-0 table #184: started
+2024/11/16-22:21:47.014 31e Level-0 table #184: 1194620 bytes OK
+2024/11/16-22:21:47.028 31e Delete type=0 #179
+2024/11/16-22:26:52.877 31e Compacting 1@1 + 1@2 files
+2024/11/16-22:26:52.890 31e Generated table #185@1: 592 keys, 48385 bytes
+2024/11/16-22:26:52.890 31e Compacted 1@1 + 1@2 files => 48385 bytes
+2024/11/16-22:26:52.911 31e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/16-22:26:52.911 31e Delete type=2 #181
+2024/11/16-22:26:52.912 31e Delete type=2 #184
+2024/11/16-22:34:30.504 31e Level-0 table #187: started
+2024/11/16-22:34:30.521 31e Level-0 table #187: 1253680 bytes OK
+2024/11/16-22:34:30.535 31e Delete type=0 #183
+2024/11/16-22:35:26.156 31e Compacting 1@1 + 1@2 files
+2024/11/16-22:35:26.178 31e Generated table #188@1: 617 keys, 35360 bytes
+2024/11/16-22:35:26.178 31e Compacted 1@1 + 1@2 files => 35360 bytes
+2024/11/16-22:35:26.193 31e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/16-22:35:26.193 31e Delete type=2 #185
+2024/11/16-22:35:26.193 31e Delete type=2 #187
+2024/11/16-22:51:21.257 31e Level-0 table #190: started
+2024/11/16-22:51:21.305 31e Level-0 table #190: 1086040 bytes OK
+2024/11/16-22:51:21.319 31e Delete type=0 #186

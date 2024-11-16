@@ -1,26 +1,17 @@
-2024/11/15-21:34:51.270 4 Reusing MANIFEST /home/retro/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
-2024/11/15-21:34:51.286 4 Recovering log #168
-2024/11/15-21:34:51.286 4 Reusing old log /home/retro/.config/thorium/Default/Local Storage/leveldb/000168.log 
-2024/11/15-22:10:35.003 5 Level-0 table #172: started
-2024/11/15-22:10:35.016 5 Level-0 table #172: 18249 bytes OK
-2024/11/15-22:10:35.039 5 Delete type=0 #168
-2024/11/15-22:10:35.039 5 Compacting 4@0 + 2@1 files
-2024/11/15-22:10:35.080 5 Generated table #173@0: 648 keys, 2123257 bytes
-2024/11/15-22:10:35.095 5 Generated table #174@0: 499 keys, 203029 bytes
-2024/11/15-22:10:35.095 5 Compacted 4@0 + 2@1 files => 2326286 bytes
-2024/11/15-22:10:35.109 5 compacted to: files[ 0 2 1 0 0 0 0 ]
-2024/11/15-22:10:35.109 5 Delete type=2 #169
-2024/11/15-22:10:35.109 5 Delete type=2 #166
-2024/11/15-22:10:35.109 5 Delete type=2 #172
-2024/11/15-22:10:35.110 5 Delete type=2 #162
-2024/11/15-22:10:35.110 5 Delete type=2 #161
-2024/11/15-22:10:35.110 5 Delete type=2 #164
-2024/11/15-22:19:50.928 5 Level-0 table #176: started
-2024/11/15-22:19:50.942 5 Level-0 table #176: 15597 bytes OK
-2024/11/15-22:19:50.956 5 Delete type=0 #171
-2024/11/15-22:59:47.776 5 Level-0 table #178: started
-2024/11/15-22:59:47.786 5 Level-0 table #178: 18090 bytes OK
-2024/11/15-22:59:47.801 5 Delete type=0 #175
-2024/11/15-23:21:44.386 5 Level-0 table #180: started
-2024/11/15-23:21:44.396 5 Level-0 table #180: 16441 bytes OK
-2024/11/15-23:21:44.412 5 Delete type=0 #177
+2024/11/16-20:16:16.095 4 Reusing MANIFEST /home/retro/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/16-20:16:16.106 4 Recovering log #202
+2024/11/16-20:16:16.107 4 Reusing old log /home/retro/.config/thorium/Default/Local Storage/leveldb/000202.log 
+2024/11/16-20:16:30.067 4 Level-0 table #206: started
+2024/11/16-20:16:30.077 4 Level-0 table #206: 15321 bytes OK
+2024/11/16-20:16:30.093 4 Delete type=0 #202
+2024/11/16-20:16:30.094 4 Compacting 4@0 + 2@1 files
+2024/11/16-20:16:30.140 4 Generated table #207@0: 572 keys, 2288779 bytes
+2024/11/16-20:16:30.160 4 Generated table #208@0: 860 keys, 653764 bytes
+2024/11/16-20:16:30.160 4 Compacted 4@0 + 2@1 files => 2942543 bytes
+2024/11/16-20:16:30.174 4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/11/16-20:16:30.175 4 Delete type=2 #195
+2024/11/16-20:16:30.175 4 Delete type=2 #206
+2024/11/16-20:16:30.175 4 Delete type=2 #198
+2024/11/16-20:16:30.175 4 Delete type=2 #203
+2024/11/16-20:16:30.175 4 Delete type=2 #196
+2024/11/16-20:16:30.175 4 Delete type=2 #201

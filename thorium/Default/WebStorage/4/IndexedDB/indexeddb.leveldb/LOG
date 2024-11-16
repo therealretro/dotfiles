@@ -1,3 +1,3 @@
-2024/11/16-14:33:11.150 5cd Reusing MANIFEST /home/retro/.config/thorium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/11/16-14:33:11.151 5cd Recovering log #12
-2024/11/16-14:33:11.151 5cd Reusing old log /home/retro/.config/thorium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/000012.log 
+2024/11/16-22:56:26.938 31e Reusing MANIFEST /home/retro/.config/thorium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/11/16-22:56:26.938 31e Recovering log #12
+2024/11/16-22:56:26.942 31e Reusing old log /home/retro/.config/thorium/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/000012.log 

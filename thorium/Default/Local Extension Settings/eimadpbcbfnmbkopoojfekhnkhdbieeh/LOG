@@ -1,6 +1,9 @@
-2024/11/16-14:09:25.104 5cd Reusing MANIFEST /home/retro/.config/thorium/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/MANIFEST-000001
-2024/11/16-14:09:25.124 5cd Recovering log #42
-2024/11/16-14:09:25.241 5cd Reusing old log /home/retro/.config/thorium/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/000042.log 
-2024/11/16-14:23:04.502 5cd Level-0 table #46: started
-2024/11/16-14:23:04.523 5cd Level-0 table #46: 2115746 bytes OK
-2024/11/16-14:23:04.538 5cd Delete type=0 #42
+2024/11/16-22:10:34.045 341 Reusing MANIFEST /home/retro/.config/thorium/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/MANIFEST-000001
+2024/11/16-22:10:34.051 341 Recovering log #50
+2024/11/16-22:10:34.148 341 Reusing old log /home/retro/.config/thorium/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/000050.log 
+2024/11/16-22:28:02.820 328 Level-0 table #55: started
+2024/11/16-22:28:02.838 328 Level-0 table #55: 2143414 bytes OK
+2024/11/16-22:28:02.854 328 Delete type=0 #50
+2024/11/16-22:56:26.283 31e Level-0 table #57: started
+2024/11/16-22:56:26.302 31e Level-0 table #57: 2138706 bytes OK
+2024/11/16-22:56:26.317 31e Delete type=0 #54

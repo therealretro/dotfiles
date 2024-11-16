@@ -1,3 +1,6 @@
-2024/11/16-14:09:23.297 5cc Reusing MANIFEST /home/retro/.config/thorium/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/11/16-14:09:23.395 5cc Recovering log #65
-2024/11/16-14:09:23.423 5cc Reusing old log /home/retro/.config/thorium/Default/Sync Data/LevelDB/000065.log 
+2024/11/16-22:10:32.190 31d Reusing MANIFEST /home/retro/.config/thorium/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/11/16-22:10:32.291 31d Recovering log #74
+2024/11/16-22:10:32.301 31d Reusing old log /home/retro/.config/thorium/Default/Sync Data/LevelDB/000074.log 
+2024/11/16-22:51:39.351 31d Level-0 table #79: started
+2024/11/16-22:51:39.362 31d Level-0 table #79: 152649 bytes OK
+2024/11/16-22:51:39.404 31d Delete type=0 #74

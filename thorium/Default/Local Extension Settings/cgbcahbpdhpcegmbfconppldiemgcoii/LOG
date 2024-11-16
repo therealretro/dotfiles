@@ -1,23 +1,9 @@
-2024/11/16-14:09:25.512 5cd Reusing MANIFEST /home/retro/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/MANIFEST-000001
-2024/11/16-14:09:25.513 5cd Recovering log #107
-2024/11/16-14:09:25.516 5cd Reusing old log /home/retro/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/000107.log 
-2024/11/16-14:10:04.392 5d5 Level-0 table #111: started
-2024/11/16-14:10:04.422 5d5 Level-0 table #111: 4225897 bytes OK
-2024/11/16-14:10:04.445 5d5 Delete type=0 #107
-2024/11/16-14:10:04.445 5d5 Compacting 4@0 + 4@1 files
-2024/11/16-14:10:04.468 5d5 Generated table #112@0: 4 keys, 2382875 bytes
-2024/11/16-14:10:04.493 5d5 Generated table #113@0: 7 keys, 2651654 bytes
-2024/11/16-14:10:04.530 5d5 Generated table #114@0: 15 keys, 1944018 bytes
-2024/11/16-14:10:04.530 5d5 Compacted 4@0 + 4@1 files => 6978547 bytes
-2024/11/16-14:10:04.548 5d5 compacted to: files[ 0 3 5 0 0 0 0 ]
-2024/11/16-14:10:04.548 5d5 Delete type=2 #103
-2024/11/16-14:10:04.548 5d5 Delete type=2 #106
-2024/11/16-14:10:04.548 5d5 Delete type=2 #108
-2024/11/16-14:10:04.548 5d5 Delete type=2 #98
-2024/11/16-14:10:04.548 5d5 Delete type=2 #111
-2024/11/16-14:10:04.548 5d5 Delete type=2 #101
-2024/11/16-14:10:04.548 5d5 Delete type=2 #100
-2024/11/16-14:10:04.549 5d5 Delete type=2 #99
-2024/11/16-14:11:01.453 5cc Level-0 table #116: started
-2024/11/16-14:11:01.507 5cc Level-0 table #116: 7496986 bytes OK
-2024/11/16-14:11:01.520 5cc Delete type=0 #110
+2024/11/16-22:10:34.363 341 Reusing MANIFEST /home/retro/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/MANIFEST-000001
+2024/11/16-22:10:34.364 341 Recovering log #123
+2024/11/16-22:10:34.365 341 Reusing old log /home/retro/.config/thorium/Default/Local Extension Settings/cgbcahbpdhpcegmbfconppldiemgcoii/000123.log 
+2024/11/16-22:11:13.423 31d Level-0 table #133: started
+2024/11/16-22:11:13.459 31d Level-0 table #133: 5406204 bytes OK
+2024/11/16-22:11:13.484 31d Delete type=0 #123
+2024/11/16-22:12:10.523 31e Level-0 table #135: started
+2024/11/16-22:12:10.571 31e Level-0 table #135: 6096358 bytes OK
+2024/11/16-22:12:10.586 31e Delete type=0 #132
