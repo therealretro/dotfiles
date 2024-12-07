@@ -1,0 +1,57 @@
+2024/12/07-16:12:33.785 f22 Reusing MANIFEST /home/retro/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/07-16:12:33.785 f22 Recovering log #266
+2024/12/07-16:12:33.798 f22 Reusing old log /home/retro/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000266.log 
+2024/12/07-16:12:36.668 f23 Level-0 table #271: started
+2024/12/07-16:12:36.688 f23 Level-0 table #271: 1209523 bytes OK
+2024/12/07-16:12:36.709 f23 Delete type=0 #266
+2024/12/07-16:12:44.260 f22 Compacting 1@1 + 1@2 files
+2024/12/07-16:12:44.278 f22 Generated table #272@1: 815 keys, 59256 bytes
+2024/12/07-16:12:44.278 f22 Compacted 1@1 + 1@2 files => 59256 bytes
+2024/12/07-16:12:44.298 f22 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/07-16:12:44.298 f22 Delete type=2 #268
+2024/12/07-16:12:44.298 f22 Delete type=2 #271
+2024/12/07-16:23:03.865 f23 Level-0 table #274: started
+2024/12/07-16:23:03.882 f23 Level-0 table #274: 987115 bytes OK
+2024/12/07-16:23:03.908 f23 Delete type=0 #270
+2024/12/07-16:23:17.635 f23 Compacting 1@1 + 1@2 files
+2024/12/07-16:23:17.648 f23 Generated table #275@1: 837 keys, 62023 bytes
+2024/12/07-16:23:17.648 f23 Compacted 1@1 + 1@2 files => 62023 bytes
+2024/12/07-16:23:17.669 f23 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/07-16:23:17.669 f23 Delete type=2 #272
+2024/12/07-16:23:17.669 f23 Delete type=2 #274
+2024/12/07-16:29:31.502 f23 Level-0 table #277: started
+2024/12/07-16:29:31.519 f23 Level-0 table #277: 982751 bytes OK
+2024/12/07-16:29:31.539 f23 Delete type=0 #273
+2024/12/07-16:30:12.066 f22 Compacting 1@1 + 1@2 files
+2024/12/07-16:30:12.079 f22 Generated table #278@1: 861 keys, 54756 bytes
+2024/12/07-16:30:12.079 f22 Compacted 1@1 + 1@2 files => 54756 bytes
+2024/12/07-16:30:12.099 f22 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/07-16:30:12.099 f22 Delete type=2 #275
+2024/12/07-16:30:12.099 f22 Delete type=2 #277
+2024/12/07-16:33:55.855 f23 Level-0 table #280: started
+2024/12/07-16:33:55.872 f23 Level-0 table #280: 1052568 bytes OK
+2024/12/07-16:33:55.893 f23 Delete type=0 #276
+2024/12/07-16:34:32.787 f24 Compacting 1@1 + 1@2 files
+2024/12/07-16:34:32.801 f24 Generated table #281@1: 887 keys, 62557 bytes
+2024/12/07-16:34:32.801 f24 Compacted 1@1 + 1@2 files => 62557 bytes
+2024/12/07-16:34:32.821 f24 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/07-16:34:32.821 f24 Delete type=2 #278
+2024/12/07-16:34:32.821 f24 Delete type=2 #280
+2024/12/07-16:48:50.493 f23 Level-0 table #283: started
+2024/12/07-16:48:50.528 f23 Level-0 table #283: 1047848 bytes OK
+2024/12/07-16:48:50.567 f23 Delete type=0 #279
+2024/12/07-16:50:13.755 f24 Compacting 1@1 + 1@2 files
+2024/12/07-16:50:13.773 f24 Generated table #284@1: 908 keys, 55551 bytes
+2024/12/07-16:50:13.773 f24 Compacted 1@1 + 1@2 files => 55551 bytes
+2024/12/07-16:50:13.800 f24 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/07-16:50:13.800 f24 Delete type=2 #281
+2024/12/07-16:50:13.801 f24 Delete type=2 #283
+2024/12/07-17:01:07.893 f23 Level-0 table #286: started
+2024/12/07-17:01:07.911 f23 Level-0 table #286: 1046646 bytes OK
+2024/12/07-17:01:07.938 f23 Delete type=0 #282
+2024/12/07-17:06:58.469 f22 Compacting 1@1 + 1@2 files
+2024/12/07-17:06:58.491 f22 Generated table #287@1: 953 keys, 68618 bytes
+2024/12/07-17:06:58.491 f22 Compacted 1@1 + 1@2 files => 68618 bytes
+2024/12/07-17:06:58.510 f22 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/07-17:06:58.511 f22 Delete type=2 #284
+2024/12/07-17:06:58.511 f22 Delete type=2 #286

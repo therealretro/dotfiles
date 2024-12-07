@@ -1,0 +1,6 @@
+2024/11/30-21:21:37.299 1687 Reusing MANIFEST /home/retro/.config/YouTube Music/Local Storage/leveldb/MANIFEST-000001
+2024/11/30-21:21:37.311 1687 Recovering log #9
+2024/11/30-21:21:37.311 1687 Reusing old log /home/retro/.config/YouTube Music/Local Storage/leveldb/000009.log 
+2024/11/30-22:35:39.405 1687 Level-0 table #13: started
+2024/11/30-22:35:39.415 1687 Level-0 table #13: 12322 bytes OK
+2024/11/30-22:35:39.434 1687 Delete type=0 #9

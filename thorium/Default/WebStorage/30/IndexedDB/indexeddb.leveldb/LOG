@@ -1,0 +1,17 @@
+2024/12/03-18:34:12.521 322 Creating DB /home/retro/.config/thorium/Default/WebStorage/30/IndexedDB/indexeddb.leveldb since it was missing.
+2024/12/03-18:34:12.562 322 Reusing MANIFEST /home/retro/.config/thorium/Default/WebStorage/30/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/12/03-18:34:13.584 32a Level-0 table #5: started
+2024/12/03-18:34:13.600 32a Level-0 table #5: 2724 bytes OK
+2024/12/03-18:34:13.626 32a Delete type=0 #3
+2024/12/03-18:34:13.627 322 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/03-18:34:14.575 321 Level-0 table #7: started
+2024/12/03-18:34:14.588 321 Level-0 table #7: 6873 bytes OK
+2024/12/03-18:34:14.614 321 Delete type=0 #4
+2024/12/03-18:34:14.614 321 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/12/03-18:34:14.614 321 Manual compaction at level-1 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x01\x01\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 290 : 1
+2024/12/03-18:34:14.614 321 Compacting 1@1 + 1@2 files
+2024/12/03-18:34:14.625 321 Generated table #8@1: 40 keys, 1066 bytes
+2024/12/03-18:34:14.626 321 Compacted 1@1 + 1@2 files => 1066 bytes
+2024/12/03-18:34:14.653 321 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/03-18:34:14.653 321 Delete type=2 #7
+2024/12/03-18:34:14.654 321 Manual compaction at level-1 from '\x00\x04\x01\x01\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 290 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

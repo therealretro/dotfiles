@@ -1,0 +1,6 @@
+2024/11/30-21:21:37.924 1686 Reusing MANIFEST /home/retro/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/30-21:21:37.926 1686 Recovering log #28
+2024/11/30-21:21:37.944 1686 Reusing old log /home/retro/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000028.log 
+2024/11/30-23:04:51.336 1687 Level-0 table #33: started
+2024/11/30-23:04:51.357 1687 Level-0 table #33: 1363702 bytes OK
+2024/11/30-23:04:51.376 1687 Delete type=0 #28

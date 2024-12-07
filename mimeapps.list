@@ -1,0 +1,16 @@
+[Added Associations]
+application/x-shellscript=sublime_text.desktop;
+application/x-fishscript=sublime_text.desktop;
+text/plain=sublime_text.desktop;
+application/pdf=onlyoffice-desktopeditors.desktop;thorium-browser.desktop;
+application/octet-stream=sublime_text.desktop;
+application/x-zerosize=sublime_text.desktop;
+text/x-csrc=sublime_text.desktop;
+application/xml=sublime_text.desktop;
+application/vnd.ms-publisher=sublime_text.desktop;
+
+[Default Applications]
+text/plain=sublime_text.desktop
+application/octet-stream=sublime_text.desktop
+application/x-zerosize=sublime_text.desktop
+application/vnd.ms-publisher=sublime_text.desktop

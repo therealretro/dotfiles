@@ -1,0 +1,23 @@
+{
+   "app": {
+      "background": {
+         "container": "panel",
+         "height": 480,
+         "scripts": [ "background.js" ],
+         "width": 640
+      }
+   },
+   "description": "Play Pong with a friend or by yourself! Its like ping pong but for your computer!",
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "256": "icon-256.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwJuKs3lySpBxNHDYooS0x2ctg/HslQuRPaeKRfhWMICOj+91ceWaKl/fWN7pYks4Qs4GUUh8Viorz9p5djjjqEP+ErdnhK7pCD2POzkJCqeC1q7oqNKX12+YCIX+HUa+Pyt00a2DoJrEBQErBmu8esihwaRTcK4V/G3gtwsLY78HC035cbGczU5+QAStSZSfG4UgSPH/ccErlp+X0s6F53JPbAJPF9KSl4dLh4WDTv0Z9T/brZHBoQBYRGsvJ+kjvkaexhbsoe7bcZQDI5ijet3v5ykqZWTVQmHEK4OC6IF13kVkqKcGBpCQSMX3T5B6PnLZGm+4syLRtnXSpRJ9cwIDAQAB",
+   "manifest_version": 2,
+   "name": "Pong 2",
+   "offline_enabled": true,
+   "permissions": [ "storage", "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5"
+}

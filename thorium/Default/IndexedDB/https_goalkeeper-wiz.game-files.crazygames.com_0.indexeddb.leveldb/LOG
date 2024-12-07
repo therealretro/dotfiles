@@ -1,0 +1,6 @@
+2024/12/01-19:16:50.208 17e8 Creating DB /home/retro/.config/thorium/Default/IndexedDB/https_goalkeeper-wiz.game-files.crazygames.com_0.indexeddb.leveldb since it was missing.
+2024/12/01-19:16:50.237 17e8 Reusing MANIFEST /home/retro/.config/thorium/Default/IndexedDB/https_goalkeeper-wiz.game-files.crazygames.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/01-19:19:44.260 17e9 Level-0 table #5: started
+2024/12/01-19:19:44.269 17e9 Level-0 table #5: 22807 bytes OK
+2024/12/01-19:19:44.288 17e9 Delete type=0 #3
+2024/12/01-19:19:44.288 17e9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

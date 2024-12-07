@@ -1,0 +1,7 @@
+2024/12/02-21:04:04.238 316 Reusing MANIFEST /home/retro/.config/thorium/Default/IndexedDB/https_www.crazygames.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/02-21:04:04.238 316 Recovering log #4
+2024/12/02-21:04:04.240 316 Reusing old log /home/retro/.config/thorium/Default/IndexedDB/https_www.crazygames.com_0.indexeddb.leveldb/000004.log 
+2024/12/02-21:04:04.280 318 Level-0 table #8: started
+2024/12/02-21:04:04.300 318 Level-0 table #8: 1618 bytes OK
+2024/12/02-21:04:04.320 318 Delete type=0 #4
+2024/12/02-21:04:04.322 321 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

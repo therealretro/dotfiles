@@ -1,0 +1,9 @@
+2024/12/07-18:27:30.416 4 Reusing MANIFEST /home/retro/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/12/07-18:27:30.424 4 Recovering log #187
+2024/12/07-18:27:30.424 4 Reusing old log /home/retro/.config/thorium/Default/Local Storage/leveldb/000187.log 
+2024/12/07-18:41:10.347 4 Level-0 table #192: started
+2024/12/07-18:41:10.366 4 Level-0 table #192: 18563 bytes OK
+2024/12/07-18:41:10.393 4 Delete type=0 #187
+2024/12/07-18:42:28.028 6 Level-0 table #194: started
+2024/12/07-18:42:28.038 6 Level-0 table #194: 18639 bytes OK
+2024/12/07-18:42:28.058 6 Delete type=0 #191

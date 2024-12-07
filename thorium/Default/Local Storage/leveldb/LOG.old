@@ -1,0 +1,16 @@
+2024/12/07-18:12:06.595 4 Reusing MANIFEST /home/retro/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/12/07-18:12:06.600 4 Recovering log #183
+2024/12/07-18:12:06.600 4 Level-0 table #186: started
+2024/12/07-18:12:06.615 4 Level-0 table #186: 12097 bytes OK
+2024/12/07-18:12:06.641 4 Delete type=0 #183
+2024/12/07-18:12:06.641 6 Compacting 4@0 + 2@1 files
+2024/12/07-18:12:06.692 6 Generated table #188@0: 782 keys, 2485926 bytes
+2024/12/07-18:12:06.725 6 Generated table #189@0: 927 keys, 456030 bytes
+2024/12/07-18:12:06.725 6 Compacted 4@0 + 2@1 files => 2941956 bytes
+2024/12/07-18:12:06.745 6 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/12/07-18:12:06.746 6 Delete type=2 #176
+2024/12/07-18:12:06.746 6 Delete type=2 #177
+2024/12/07-18:12:06.747 6 Delete type=2 #179
+2024/12/07-18:12:06.747 6 Delete type=2 #182
+2024/12/07-18:12:06.747 6 Delete type=2 #184
+2024/12/07-18:12:06.747 6 Delete type=2 #186

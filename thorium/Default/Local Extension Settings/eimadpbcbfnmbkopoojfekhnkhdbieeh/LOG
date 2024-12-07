@@ -1,0 +1,15 @@
+2024/12/07-18:27:30.731 2b75 Reusing MANIFEST /home/retro/.config/thorium/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/MANIFEST-000001
+2024/12/07-18:27:30.732 2b75 Recovering log #99
+2024/12/07-18:27:30.738 2b75 Reusing old log /home/retro/.config/thorium/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/000099.log 
+2024/12/07-18:33:49.107 2b75 Level-0 table #103: started
+2024/12/07-18:33:49.137 2b75 Level-0 table #103: 1648851 bytes OK
+2024/12/07-18:33:49.167 2b75 Delete type=0 #99
+2024/12/07-18:33:49.168 2b6d Compacting 4@0 + 1@1 files
+2024/12/07-18:33:49.184 2b6d Generated table #104@0: 2 keys, 19814 bytes
+2024/12/07-18:33:49.185 2b6d Compacted 4@0 + 1@1 files => 19814 bytes
+2024/12/07-18:33:49.206 2b6d compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/07-18:33:49.206 2b6d Delete type=2 #93
+2024/12/07-18:33:49.207 2b6d Delete type=2 #95
+2024/12/07-18:33:49.207 2b6d Delete type=2 #98
+2024/12/07-18:33:49.207 2b6d Delete type=2 #100
+2024/12/07-18:33:49.207 2b6d Delete type=2 #103

@@ -1,0 +1,122 @@
+20:31:29.004: Platform: Wayland
+20:31:29.004: CPU Name: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+20:31:29.004: CPU Speed: 3644.172MHz
+20:31:29.004: Physical Cores: 4, Logical Cores: 4
+20:31:29.004: Physical Memory: 15932MB Total, 4608MB Free
+20:31:29.004: Kernel Version: Linux 6.11.9-arch1-1
+20:31:29.005: Distribution: "Arch Linux" Unknown
+20:31:29.005: Desktop Environment: Hyprland
+20:31:29.005: Session Type: wayland
+20:31:29.007: Qt Version: 6.8.0 (runtime), 6.8.0 (compiled)
+20:31:29.007: Portable mode: false
+20:31:29.045: OBS 30.2.3-1 (linux)
+20:31:29.045: ---------------------------------
+20:31:29.046: ---------------------------------
+20:31:29.046: audio settings reset:
+20:31:29.046: 	samples per sec: 48000
+20:31:29.046: 	speakers:        2
+20:31:29.046: 	max buffering:   960 milliseconds
+20:31:29.046: 	buffering type:  dynamically increasing
+20:31:29.053: ---------------------------------
+20:31:29.053: Initializing OpenGL...
+20:31:29.053: Using EGL/Wayland
+20:31:29.099: Initialized EGL 1.5
+20:31:29.121: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2
+20:31:29.121: OpenGL loaded successfully, version 3.3.0 NVIDIA 565.57.01, shading language 3.30 NVIDIA via Cg compiler
+20:31:29.149: ---------------------------------
+20:31:29.149: video settings reset:
+20:31:29.149: 	base resolution:   1920x1080
+20:31:29.149: 	output resolution: 1920x1080
+20:31:29.149: 	downscale filter:  Bicubic
+20:31:29.149: 	fps:               60/1
+20:31:29.149: 	format:            NV12
+20:31:29.149: 	YUV mode:          Rec. 709/Partial
+20:31:29.149: NV12 texture support enabled
+20:31:29.149: P010 texture support not available
+20:31:29.150: Audio monitoring device:
+20:31:29.150: 	name: Default
+20:31:29.150: 	id: default
+20:31:29.150: ---------------------------------
+20:31:29.158: Failed to load 'en-US' text for module: 'decklink-captions.so'
+20:31:29.167: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+20:31:29.175: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+20:31:29.175: Failed to initialize module 'decklink.so'
+20:31:29.353: [pipewire] Available capture sources:
+20:31:29.353: [pipewire]     - Monitor source
+20:31:29.353: [pipewire]     - Window source
+20:31:29.375: v4l2loopback not installed, virtual camera not registered
+20:31:29.466: NVENC supported
+20:31:29.467: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+20:31:29.467: FFmpeg VAAPI H264 encoding not supported
+20:31:29.467: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+20:31:29.467: FFmpeg VAAPI AV1 encoding not supported
+20:31:29.467: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+20:31:29.467: FFmpeg VAAPI HEVC encoding not supported
+20:31:29.481: os_dlopen(/usr/lib/obs-plugins/obs-libfdk.so->/usr/lib/obs-plugins/obs-libfdk.so): libfdk-aac.so.2: cannot open shared object file: No such file or directory
+20:31:29.481: 
+20:31:29.484: os_dlopen(/usr/lib/obs-plugins/obs-libfdk.so->/usr/lib/obs-plugins/obs-libfdk.so): libfdk-aac.so.2: cannot open shared object file: No such file or directory
+20:31:29.484: 
+20:31:29.484: Module '/usr/lib/obs-plugins/obs-libfdk.so' not loaded
+20:31:29.587: ---------------------------------
+20:31:29.587:   Loaded Modules:
+20:31:29.588:     text-freetype2.so
+20:31:29.588:     rtmp-services.so
+20:31:29.588:     obs-x264.so
+20:31:29.588:     obs-webrtc.so
+20:31:29.588:     obs-vst.so
+20:31:29.588:     obs-transitions.so
+20:31:29.588:     obs-qsv11.so
+20:31:29.588:     obs-outputs.so
+20:31:29.588:     obs-filters.so
+20:31:29.588:     obs-ffmpeg.so
+20:31:29.588:     linux-v4l2.so
+20:31:29.588:     linux-pulseaudio.so
+20:31:29.588:     linux-pipewire.so
+20:31:29.588:     linux-jack.so
+20:31:29.588:     linux-capture.so
+20:31:29.588:     linux-alsa.so
+20:31:29.588:     image-source.so
+20:31:29.588:     frontend-tools.so
+20:31:29.588:     decklink-output-ui.so
+20:31:29.588:     decklink-captions.so
+20:31:29.588: ---------------------------------
+20:31:29.588: ---------------------------------
+20:31:29.588: Available Encoders:
+20:31:29.588:   Video Encoders:
+20:31:29.588: 	- ffmpeg_svt_av1 (SVT-AV1)
+20:31:29.588: 	- ffmpeg_aom_av1 (AOM AV1)
+20:31:29.588: 	- jim_nvenc (NVIDIA NVENC H.264)
+20:31:29.588: 	- jim_hevc_nvenc (NVIDIA NVENC HEVC)
+20:31:29.588: 	- jim_av1_nvenc (NVIDIA NVENC AV1)
+20:31:29.588: 	- obs_x264 (x264)
+20:31:29.588:   Audio Encoders:
+20:31:29.588: 	- ffmpeg_aac (FFmpeg AAC)
+20:31:29.588: 	- ffmpeg_opus (FFmpeg Opus)
+20:31:29.588: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+20:31:29.588: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+20:31:29.588: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+20:31:29.588: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+20:31:29.588: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+20:31:29.588: ==== Startup complete ===============================================
+20:31:29.602: All scene data cleared
+20:31:29.603: ------------------------------------------------
+20:31:29.605: pulse-input: Server name: 'pulseaudio 17.0'
+20:31:29.605: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+20:31:29.605: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor' (default)
+20:31:29.606: [Loaded global audio device]: 'Desktop Audio'
+20:31:29.606: pulse-input: Server name: 'pulseaudio 17.0'
+20:31:29.606: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+20:31:29.606: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo' (default)
+20:31:29.606: [Loaded global audio device]: 'Mic/Aux'
+20:31:29.607: Switched to scene 'Scene'
+20:31:29.607: ------------------------------------------------
+20:31:29.607: Loaded scenes:
+20:31:29.607: - scene 'Scene':
+20:31:29.607: ------------------------------------------------
+20:31:30.134: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+20:31:30.134: 
+20:31:33.442: PipeWire initialized
+20:31:33.445: User added source 'Screen Capture (PipeWire)' (pipewire-screen-capture-source) to scene 'Scene'
+20:31:33.462: [pipewire] Screencast session created
+20:31:34.449: [pipewire] Asking for monitor and window
+20:31:34.619: [pipewire] Failed to start screencast, denied or cancelled by user

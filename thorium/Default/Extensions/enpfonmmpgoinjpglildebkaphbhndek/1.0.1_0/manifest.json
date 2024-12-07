@@ -1,0 +1,37 @@
+{
+   "description": "Tokyonight inspired theme",
+   "icons": {
+      "128": "icon128.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAh6K+b05oQ5noVSUzxDvzJfd846hBamv/fNuMY8ZwhLK8A2CZB9eJox+MHJ2pndwIimYRdItC77KAM/8L9M5kZrLdM9uN8rPDG8w/DTPsk3a6XiahW2M4iMxxBbaZRYVDAp9cDBYUBE5TBVC69vCAOtGHutTE/pEzdxjX8lrIklHzMI0BJ8oItjy6FqpA/sriQr9FHb+buAgJhLLGpw2bb36ttf749eKu/B1zDoxwmUpTYtVvCFS81VnukhpAQYQJjDToFW1Db4NBkabxrpT+Tq0rWgsZkbTdY4qga81yNc2nk1zcxmj3yZcFsSqIrTPesZqz5ntSzAd5BvZlwoin3QIDAQAB",
+   "manifest_version": 2,
+   "name": "Tokyonight",
+   "theme": {
+      "colors": {
+         "frame": [ 26, 27, 38 ],
+         "frame_inactive": [ 36, 40, 59 ],
+         "frame_incognito": [ 26, 27, 38 ],
+         "frame_incognito_inactive": [ 36, 40, 59 ],
+         "icons": [ 154, 165, 206 ],
+         "ntp_background": [ 26, 27, 38 ],
+         "ntp_text": [ 154, 165, 206 ],
+         "omnibox_background": [ 65, 72, 104 ],
+         "omnibox_text": [ 154, 165, 206 ],
+         "popup": [ 26, 27, 38 ],
+         "popup_highlight": [ 122, 162, 247 ],
+         "popup_highlight_text": [ 254, 254, 254 ],
+         "sidebar": [ 26, 27, 38 ],
+         "sidebar_highlight": [ 122, 162, 247 ],
+         "sidebar_highlight_text": [ 254, 254, 254 ],
+         "tab_background_text": [ 154, 165, 206 ],
+         "toolbar": [ 26, 27, 38 ],
+         "toolbar_field": [ 65, 72, 104 ],
+         "toolbar_field_border_focus": [ 122, 162, 247 ],
+         "toolbar_field_highlight": [ 122, 162, 247 ],
+         "toolbar_field_text": [ 154, 165, 206 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}

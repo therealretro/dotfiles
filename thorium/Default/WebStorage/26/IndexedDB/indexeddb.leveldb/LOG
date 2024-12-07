@@ -1,0 +1,7 @@
+2024/12/07-17:02:54.346 f23 Reusing MANIFEST /home/retro/.config/thorium/Default/WebStorage/26/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/12/07-17:02:54.346 f23 Recovering log #3
+2024/12/07-17:02:54.347 f23 Reusing old log /home/retro/.config/thorium/Default/WebStorage/26/IndexedDB/indexeddb.leveldb/000003.log 
+2024/12/07-17:06:56.100 f23 Level-0 table #5: started
+2024/12/07-17:06:56.111 f23 Level-0 table #5: 114259 bytes OK
+2024/12/07-17:06:56.129 f23 Delete type=0 #3
+2024/12/07-17:06:56.129 f23 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

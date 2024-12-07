@@ -1,0 +1,125 @@
+21:01:48.529: Platform: Wayland
+21:01:48.529: CPU Name: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz
+21:01:48.529: CPU Speed: 3588.888MHz
+21:01:48.529: Physical Cores: 4, Logical Cores: 4
+21:01:48.529: Physical Memory: 15932MB Total, 12324MB Free
+21:01:48.529: Kernel Version: Linux 6.11.9-arch1-1
+21:01:48.529: Distribution: "Arch Linux" Unknown
+21:01:48.529: Desktop Environment: Hyprland
+21:01:48.529: Session Type: wayland
+21:01:48.531: Qt Version: 6.8.0 (runtime), 6.8.0 (compiled)
+21:01:48.531: Portable mode: false
+21:01:48.568: OBS 30.2.3-1 (linux)
+21:01:48.568: ---------------------------------
+21:01:48.568: ---------------------------------
+21:01:48.568: audio settings reset:
+21:01:48.568: 	samples per sec: 48000
+21:01:48.568: 	speakers:        2
+21:01:48.568: 	max buffering:   960 milliseconds
+21:01:48.568: 	buffering type:  dynamically increasing
+21:01:48.575: ---------------------------------
+21:01:48.575: Initializing OpenGL...
+21:01:48.575: Using EGL/Wayland
+21:01:48.617: Initialized EGL 1.5
+21:01:48.642: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2
+21:01:48.642: OpenGL loaded successfully, version 3.3.0 NVIDIA 565.57.01, shading language 3.30 NVIDIA via Cg compiler
+21:01:48.669: ---------------------------------
+21:01:48.669: video settings reset:
+21:01:48.669: 	base resolution:   1920x1080
+21:01:48.669: 	output resolution: 1920x1080
+21:01:48.669: 	downscale filter:  Bicubic
+21:01:48.669: 	fps:               60/1
+21:01:48.669: 	format:            NV12
+21:01:48.669: 	YUV mode:          Rec. 709/Partial
+21:01:48.669: NV12 texture support enabled
+21:01:48.669: P010 texture support not available
+21:01:48.669: Audio monitoring device:
+21:01:48.669: 	name: Default
+21:01:48.669: 	id: default
+21:01:48.669: ---------------------------------
+21:01:48.676: Failed to load 'en-US' text for module: 'decklink-captions.so'
+21:01:48.685: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+21:01:48.692: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+21:01:48.692: Failed to initialize module 'decklink.so'
+21:01:48.854: [pipewire] Available capture sources:
+21:01:48.854: [pipewire]     - Monitor source
+21:01:48.854: [pipewire]     - Window source
+21:01:48.874: v4l2loopback not installed, virtual camera not registered
+21:01:48.958: NVENC supported
+21:01:48.959: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+21:01:48.959: FFmpeg VAAPI H264 encoding not supported
+21:01:48.959: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+21:01:48.959: FFmpeg VAAPI AV1 encoding not supported
+21:01:48.959: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+21:01:48.959: FFmpeg VAAPI HEVC encoding not supported
+21:01:49.068: ---------------------------------
+21:01:49.068:   Loaded Modules:
+21:01:49.068:     text-freetype2.so
+21:01:49.068:     rtmp-services.so
+21:01:49.068:     obs-x264.so
+21:01:49.068:     obs-webrtc.so
+21:01:49.068:     obs-vst.so
+21:01:49.068:     obs-transitions.so
+21:01:49.068:     obs-qsv11.so
+21:01:49.068:     obs-outputs.so
+21:01:49.068:     obs-libfdk.so
+21:01:49.068:     obs-filters.so
+21:01:49.068:     obs-ffmpeg.so
+21:01:49.068:     linux-v4l2.so
+21:01:49.068:     linux-pulseaudio.so
+21:01:49.068:     linux-pipewire.so
+21:01:49.068:     linux-jack.so
+21:01:49.068:     linux-capture.so
+21:01:49.068:     linux-alsa.so
+21:01:49.068:     image-source.so
+21:01:49.068:     frontend-tools.so
+21:01:49.068:     decklink-output-ui.so
+21:01:49.068:     decklink-captions.so
+21:01:49.068: ---------------------------------
+21:01:49.068: ---------------------------------
+21:01:49.068: Available Encoders:
+21:01:49.068:   Video Encoders:
+21:01:49.068: 	- ffmpeg_svt_av1 (SVT-AV1)
+21:01:49.068: 	- ffmpeg_aom_av1 (AOM AV1)
+21:01:49.068: 	- jim_nvenc (NVIDIA NVENC H.264)
+21:01:49.068: 	- jim_hevc_nvenc (NVIDIA NVENC HEVC)
+21:01:49.068: 	- jim_av1_nvenc (NVIDIA NVENC AV1)
+21:01:49.068: 	- obs_x264 (x264)
+21:01:49.068:   Audio Encoders:
+21:01:49.068: 	- ffmpeg_aac (FFmpeg AAC)
+21:01:49.068: 	- ffmpeg_opus (FFmpeg Opus)
+21:01:49.068: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+21:01:49.068: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+21:01:49.068: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+21:01:49.068: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+21:01:49.068: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+21:01:49.068: 	- libfdk_aac (libfdk AAC)
+21:01:49.068: ==== Startup complete ===============================================
+21:01:49.104: All scene data cleared
+21:01:49.104: ------------------------------------------------
+21:01:49.108: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.6) 15.0.0'
+21:01:49.108: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+21:01:49.108: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor' (default)
+21:01:49.108: [Loaded global audio device]: 'Desktop Audio'
+21:01:49.109: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.6) 15.0.0'
+21:01:49.109: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+21:01:49.109: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo' (default)
+21:01:49.109: [Loaded global audio device]: 'Mic/Aux'
+21:01:49.109: PipeWire initialized
+21:01:49.110: Switched to scene 'Scene'
+21:01:49.110: ------------------------------------------------
+21:01:49.110: Loaded scenes:
+21:01:49.110: - scene 'Scene':
+21:01:49.110:     - source: 'Screen Capture (PipeWire)' (pipewire-screen-capture-source)
+21:01:49.110: ------------------------------------------------
+21:01:49.678: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+21:01:49.678: 
+21:01:49.699: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+21:01:49.699: 
+21:01:52.521: User Removed source 'Screen Capture (PipeWire)' (pipewire-screen-capture-source) from scene 'Scene'
+21:01:52.521: [portals] Request cancelled
+21:01:57.067: PipeWire initialized
+21:01:57.070: User added source 'Screen Capture (PipeWire)' (pipewire-screen-capture-source) to scene 'Scene'
+21:01:58.772: PipeWire initialized
+21:02:22.067: [pipewire] Error creating screencast session: Timeout was reached
+21:02:23.772: [pipewire] Error creating screencast session: Timeout was reached

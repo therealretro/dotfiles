@@ -1,0 +1,13 @@
+2024/12/03-17:59:09.946 322 Reusing MANIFEST /home/retro/.config/thorium/Default/IndexedDB/https_www.crazygames.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/03-17:59:09.946 322 Recovering log #7
+2024/12/03-17:59:09.946 322 Reusing old log /home/retro/.config/thorium/Default/IndexedDB/https_www.crazygames.com_0.indexeddb.leveldb/000007.log 
+2024/12/03-17:59:10.011 32a Level-0 table #11: started
+2024/12/03-17:59:10.023 32a Level-0 table #11: 1154 bytes OK
+2024/12/03-17:59:10.048 32a Delete type=0 #7
+2024/12/03-17:59:10.049 322 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 109 : 1
+2024/12/03-17:59:10.049 322 Compacting 1@0 + 1@1 files
+2024/12/03-17:59:10.061 322 Generated table #12@0: 42 keys, 1211 bytes
+2024/12/03-17:59:10.062 322 Compacted 1@0 + 1@1 files => 1211 bytes
+2024/12/03-17:59:10.081 322 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/03-17:59:10.081 322 Delete type=2 #11
+2024/12/03-17:59:10.081 321 Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 109 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
